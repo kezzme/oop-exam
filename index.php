@@ -38,5 +38,6 @@
         $cart->viewCart();
         $cart->computeTotal();
     ?>
+
 </body>
 </html>
